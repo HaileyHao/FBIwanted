@@ -5,8 +5,8 @@ description = "This package is a python API wrapper around the FBI Wanted API. I
 authors = ["Qinyue Hao"]
 license = "MIT"
 readme = "README.md"
-homepage = ""
-repository = ""
+homepage = "https://github.com/HaileyHao/FBIwanted"
+repository = "https://github.com/HaileyHao/FBIwanted"
 
 [tool.poetry.dependencies]
 python = "^3.9"
